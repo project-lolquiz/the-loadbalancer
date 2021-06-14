@@ -13,9 +13,9 @@ as aplicações se comportarão como esperado.
 
 ### Endereço no Heroku
 ```
-https://lolquizlb.herokuapp.com/api/
-https://lolquizlb.herokuapp.com/api[/ping]
-https://lolquizlb.herokuapp.com/api[/health]
+https://lolquizlb.herokuapp.com/
+https://lolquizlb.herokuapp.com/ping
+https://lolquizlb.herokuapp.com/health
 ```
 ### Instâncias mapeadas API backend no Heroku
 As seguintes instâncias estão ativas atualmente no Heroku
